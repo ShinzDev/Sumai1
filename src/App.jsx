@@ -3,7 +3,7 @@ import React from 'react'
 import Hero from './components/Hero'
 import Demo from './components/Demo'
 
-import './app.css'
+import './newApp.css'
 const App = () => {
   return (
     <main>
